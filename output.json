@@ -1,0 +1,58 @@
+[
+    {
+        "text": "对儿童SARST细胞亚群的研究表明，与成人SARS相比，儿童细胞下降不明显，证明上述推测成立。",
+        "prompt": "|实体|类别|起始位置|终止位置|\n|-----|-----|-----|-----|\n|SARST细胞|身体|3|9|\n|成人SARS|疾病|19|24|\n",
+        "target": [
+            {
+                "start_idx": 3,
+                "end_idx": 9,
+                "type": "bod",
+                "entity": "SARST细胞"
+            },
+            {
+                "start_idx": 19,
+                "end_idx": 24,
+                "type": "dis",
+                "entity": "成人SARS"
+            }
+        ],
+        "output": [
+            {
+                "start_idx": 3,
+                "end_idx": 8,
+                "type": "疾病",
+                "entity": "SARST"
+            },
+            {
+                "start_idx": 19,
+                "end_idx": 25,
+                "type": "疾病",
+                "entity": "成人SARS"
+            },
+            {
+                "start_idx": 1,
+                "end_idx": 3,
+                "type": "身体",
+                "entity": "儿童"
+            },
+            {
+                "start_idx": 28,
+                "end_idx": 30,
+                "type": "身体",
+                "entity": "儿童"
+            },
+            {
+                "start_idx": 8,
+                "end_idx": 10,
+                "type": "身体",
+                "entity": "细胞"
+            },
+            {
+                "start_idx": 30,
+                "end_idx": 32,
+                "type": "身体",
+                "entity": "细胞"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2564 @@
+[
+    {
+        "text": "这可能与分娩时缺氧、脑损伤以及母体高血压等因素有关，在严重感染时可以表现出边缘池中性粒细胞空虚和存活时间缩短以及一些酶的活性不足。",
+        "entities": [
+            {
+                "start_idx": 7,
+                "end_idx": 8,
+                "type": "dis",
+                "entity": "缺氧"
+            },
+            {
+                "start_idx": 10,
+                "end_idx": 12,
+                "type": "dis",
+                "entity": "脑损伤"
+            },
+            {
+                "start_idx": 15,
+                "end_idx": 19,
+                "type": "dis",
+                "entity": "母体高血压"
+            },
+            {
+                "start_idx": 27,
+                "end_idx": 30,
+                "type": "dis",
+                "entity": "严重感染"
+            },
+            {
+                "start_idx": 40,
+                "end_idx": 44,
+                "type": "bod",
+                "entity": "中性粒细胞"
+            }
+        ]
+    },
+    {
+        "text": "如对本症患者在无促性腺激素升高活体组织检查，可见曲细精管玻璃样变，其睾丸间质细胞（Legdig细胞）虽有增加，但内分泌【治疗】患者自11～12岁开始应进行雄激素疗法。",
+        "entities": [
+            {
+                "start_idx": 7,
+                "end_idx": 14,
+                "type": "sym",
+                "entity": "无促性腺激素升高"
+            },
+            {
+                "start_idx": 15,
+                "end_idx": 20,
+                "type": "pro",
+                "entity": "活体组织检查"
+            },
+            {
+                "start_idx": 34,
+                "end_idx": 39,
+                "type": "bod",
+                "entity": "睾丸间质细胞"
+            },
+            {
+                "start_idx": 41,
+                "end_idx": 48,
+                "type": "bod",
+                "entity": "Legdig细胞"
+            },
+            {
+                "start_idx": 77,
+                "end_idx": 81,
+                "type": "pro",
+                "entity": "雄激素疗法"
+            }
+        ]
+    },
+    {
+        "text": "正常情况下，幽门环肌、纵肌及肌间神经丛中都存在一定浓度的NO合成酶，而HPS患儿环肌层则缺乏该物质，且伴有ENS轴突形态的异常HPS患儿幽门肌间神经丛及肌肉内神经轴突退化HPS的病理原因是什么，其作用都是暂时的，因为术后罕见复发。",
+        "entities": [
+            {
+                "start_idx": 6,
+                "end_idx": 9,
+                "type": "bod",
+                "entity": "幽门环肌"
+            },
+            {
+                "start_idx": 11,
+                "end_idx": 12,
+                "type": "bod",
+                "entity": "纵肌"
+            },
+            {
+                "start_idx": 14,
+                "end_idx": 18,
+                "type": "bod",
+                "entity": "肌间神经丛"
+            },
+            {
+                "start_idx": 28,
+                "end_idx": 32,
+                "type": "bod",
+                "entity": "NO合成酶"
+            },
+            {
+                "start_idx": 35,
+                "end_idx": 37,
+                "type": "dis",
+                "entity": "HPS"
+            },
+            {
+                "start_idx": 53,
+                "end_idx": 62,
+                "type": "sym",
+                "entity": "ENS轴突形态的异常"
+            },
+            {
+                "start_idx": 63,
+                "end_idx": 65,
+                "type": "dis",
+                "entity": "HPS"
+            },
+            {
+                "start_idx": 68,
+                "end_idx": 74,
+                "type": "bod",
+                "entity": "幽门肌间神经丛"
+            },
+            {
+                "start_idx": 76,
+                "end_idx": 77,
+                "type": "bod",
+                "entity": "肌肉"
+            },
+            {
+                "start_idx": 79,
+                "end_idx": 84,
+                "type": "sym",
+                "entity": "神经轴突退化"
+            },
+            {
+                "start_idx": 85,
+                "end_idx": 87,
+                "type": "dis",
+                "entity": "HPS"
+            }
+        ]
+    },
+    {
+        "text": "但是，临床上接受前列腺素治疗的新生儿，即使出现幽门痉挛性梗阻，亦未继发肌肉肥厚原发性肠神经系统发育异常学说来解释HPS的形成或许更能令人信服。",
+        "entities": [
+            {
+                "start_idx": 8,
+                "end_idx": 13,
+                "type": "pro",
+                "entity": "前列腺素治疗"
+            },
+            {
+                "start_idx": 23,
+                "end_idx": 29,
+                "type": "dis",
+                "entity": "幽门痉挛性梗阻"
+            },
+            {
+                "start_idx": 35,
+                "end_idx": 38,
+                "type": "dis",
+                "entity": "肌肉肥厚"
+            },
+            {
+                "start_idx": 39,
+                "end_idx": 50,
+                "type": "dis",
+                "entity": "原发性肠神经系统发育异常"
+            },
+            {
+                "start_idx": 56,
+                "end_idx": 58,
+                "type": "dis",
+                "entity": "HPS"
+            }
+        ]
+    },
+    {
+        "text": "进入青春期和成人期，其发现的可能性变小，如果发现肾积水，多系供应肾下极皮质的迷走血管下极皮质的迷走血管跨于UPJO之上造成。",
+        "entities": [
+            {
+                "start_idx": 24,
+                "end_idx": 26,
+                "type": "dis",
+                "entity": "肾积水"
+            },
+            {
+                "start_idx": 32,
+                "end_idx": 41,
+                "type": "bod",
+                "entity": "肾下极皮质的迷走血管"
+            },
+            {
+                "start_idx": 53,
+                "end_idx": 56,
+                "type": "dis",
+                "entity": "UPJO"
+            }
+        ]
+    },
+    {
+        "text": "1.黏多糖病I-H型（Hurler综合征）本型是最严重的一种类型，常在10岁左右死亡，病因为缺乏α-L-艾杜糖醛酸苷酶，导致硫酸皮肤素和硫酸肝素在体内积聚，全身脏器如角膜、软骨、骨骼、皮肤、心肌内膜及血管结缔组织等均受累。",
+        "entities": [
+            {
+                "start_idx": 2,
+                "end_idx": 9,
+                "type": "dis",
+                "entity": "黏多糖病I-H型"
+            },
+            {
+                "start_idx": 11,
+                "end_idx": 19,
+                "type": "dis",
+                "entity": "Hurler综合征"
+            },
+            {
+                "start_idx": 33,
+                "end_idx": 41,
+                "type": "sym",
+                "entity": "常在10岁左右死亡"
+            },
+            {
+                "start_idx": 48,
+                "end_idx": 58,
+                "type": "bod",
+                "entity": "α-L-艾杜糖醛酸苷酶"
+            },
+            {
+                "start_idx": 62,
+                "end_idx": 66,
+                "type": "bod",
+                "entity": "硫酸皮肤素"
+            },
+            {
+                "start_idx": 68,
+                "end_idx": 71,
+                "type": "bod",
+                "entity": "硫酸肝素"
+            },
+            {
+                "start_idx": 80,
+                "end_idx": 81,
+                "type": "bod",
+                "entity": "脏器"
+            },
+            {
+                "start_idx": 83,
+                "end_idx": 84,
+                "type": "bod",
+                "entity": "角膜"
+            },
+            {
+                "start_idx": 86,
+                "end_idx": 87,
+                "type": "bod",
+                "entity": "软骨"
+            },
+            {
+                "start_idx": 89,
+                "end_idx": 90,
+                "type": "bod",
+                "entity": "骨骼"
+            },
+            {
+                "start_idx": 92,
+                "end_idx": 93,
+                "type": "bod",
+                "entity": "皮肤"
+            },
+            {
+                "start_idx": 95,
+                "end_idx": 98,
+                "type": "bod",
+                "entity": "心肌内膜"
+            },
+            {
+                "start_idx": 100,
+                "end_idx": 105,
+                "type": "bod",
+                "entity": "血管结缔组织"
+            }
+        ]
+    },
+    {
+        "text": "小分子物质（如苯丙氨酸、有机酸及单糖）因易扩散，故异常堆积后往往会弥漫至全身多种组织、细胞而引起全身性病变，这类遗传代谢病的特点是起病早，如在新生儿期起病者可表现为急性脑病的发作。",
+        "entities": [
+            {
+                "start_idx": 7,
+                "end_idx": 10,
+                "type": "bod",
+                "entity": "苯丙氨酸"
+            },
+            {
+                "start_idx": 12,
+                "end_idx": 14,
+                "type": "bod",
+                "entity": "有机酸"
+            },
+            {
+                "start_idx": 16,
+                "end_idx": 17,
+                "type": "bod",
+                "entity": "单糖"
+            },
+            {
+                "start_idx": 25,
+                "end_idx": 44,
+                "type": "sym",
+                "entity": "异常堆积后往往会弥漫至全身多种组织、细胞"
+            },
+            {
+                "start_idx": 46,
+                "end_idx": 52,
+                "type": "sym",
+                "entity": "引起全身性病变"
+            },
+            {
+                "start_idx": 82,
+                "end_idx": 85,
+                "type": "dis",
+                "entity": "急性脑病"
+            }
+        ]
+    },
+    {
+        "text": "可常见小的残余分流，通常这些残余室缺不会引起血流动力学紊乱，但是仍需终生用抗生素预防细菌性心内膜炎。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 8,
+                "type": "sym",
+                "entity": "小的残余分流"
+            },
+            {
+                "start_idx": 37,
+                "end_idx": 39,
+                "type": "dru",
+                "entity": "抗生素"
+            },
+            {
+                "start_idx": 42,
+                "end_idx": 48,
+                "type": "dis",
+                "entity": "细菌性心内膜炎"
+            }
+        ]
+    },
+    {
+        "text": "（五）免疫功能正常的儿童单纯淋巴结肿大者，不需治疗；若重要器官损害，危及生命，治疗同“年长儿活动性脉络膜视网膜炎”，无需肾上腺皮质类固醇，疗程常为4～6周或在体征和症状消退后继续用2周。",
+        "entities": [
+            {
+                "start_idx": 14,
+                "end_idx": 18,
+                "type": "dis",
+                "entity": "淋巴结肿大"
+            },
+            {
+                "start_idx": 43,
+                "end_idx": 55,
+                "type": "dis",
+                "entity": "年长儿活动性脉络膜视网膜炎"
+            },
+            {
+                "start_idx": 60,
+                "end_idx": 67,
+                "type": "dru",
+                "entity": "肾上腺皮质类固醇"
+            }
+        ]
+    },
+    {
+        "text": "脑脊液表现与病毒性脑膜炎相似，但可见到内皮样细胞（Mollaret细胞），其体积较大，在体外很快溶解消失，故怀疑本病时应取新鲜脑脊液送检。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 2,
+                "type": "bod",
+                "entity": "脑脊液"
+            },
+            {
+                "start_idx": 6,
+                "end_idx": 11,
+                "type": "dis",
+                "entity": "病毒性脑膜炎"
+            },
+            {
+                "start_idx": 19,
+                "end_idx": 23,
+                "type": "bod",
+                "entity": "内皮样细胞"
+            },
+            {
+                "start_idx": 25,
+                "end_idx": 34,
+                "type": "bod",
+                "entity": "Mollaret细胞"
+            }
+        ]
+    },
+    {
+        "text": "【临床表现】（一）早产儿血氧分压升高可使动脉导管收缩，而前列腺素E可使之扩张，此反应的灵敏程度与胎龄有关。",
+        "entities": [
+            {
+                "start_idx": 12,
+                "end_idx": 15,
+                "type": "ite",
+                "entity": "血氧分压"
+            },
+            {
+                "start_idx": 20,
+                "end_idx": 23,
+                "type": "bod",
+                "entity": "动脉导管"
+            },
+            {
+                "start_idx": 28,
+                "end_idx": 32,
+                "type": "dru",
+                "entity": "前列腺素E"
+            }
+        ]
+    },
+    {
+        "text": "（4）抗Ga1NAc-GD1a抗体：此抗体与前驱空肠弯曲杆菌感染相关，研究表明伴有此抗体的GBS患者可出现快速进展，非常严重的肌无力（以远端肌群为主）。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 16,
+                "type": "bod",
+                "entity": "抗Ga1NAc-GD1a抗体"
+            },
+            {
+                "start_idx": 19,
+                "end_idx": 20,
+                "type": "bod",
+                "entity": "抗体"
+            },
+            {
+                "start_idx": 22,
+                "end_idx": 31,
+                "type": "dis",
+                "entity": "前驱空肠弯曲杆菌感染"
+            },
+            {
+                "start_idx": 42,
+                "end_idx": 43,
+                "type": "bod",
+                "entity": "抗体"
+            },
+            {
+                "start_idx": 45,
+                "end_idx": 47,
+                "type": "dis",
+                "entity": "GBS"
+            },
+            {
+                "start_idx": 60,
+                "end_idx": 65,
+                "type": "dis",
+                "entity": "严重的肌无力"
+            },
+            {
+                "start_idx": 68,
+                "end_idx": 71,
+                "type": "bod",
+                "entity": "远端肌群"
+            }
+        ]
+    },
+    {
+        "text": "这部分患儿仅在腹痛时才能发现PUJO的存在，而无症状时其排泄性尿路造影可以完全正常，上述情况多见于迷走血管压迫引起的肾积水。",
+        "entities": [
+            {
+                "start_idx": 28,
+                "end_idx": 34,
+                "type": "pro",
+                "entity": "排泄性尿路造影"
+            },
+            {
+                "start_idx": 49,
+                "end_idx": 60,
+                "type": "dis",
+                "entity": "迷走血管压迫引起的肾积水"
+            }
+        ]
+    },
+    {
+        "text": "【发病机制】本病发病机制尚未完全清楚，有以下几种可能：①内流缺陷，管腔内向组织内流减少，见于刷状缘缺失型；②细胞内回漏到肾小管腔增加，如马来酸中毒型；③通过基底侧细胞膜回流减少，致细胞内物质堆积；影响回吸收，如Fanconi-Bickel综合征；④从血液向细胞灌注增加，通过细胞紧密连接处反流管腔增加，如细胞色素C氧化酶缺乏型。",
+        "entities": [
+            {
+                "start_idx": 28,
+                "end_idx": 31,
+                "type": "sym",
+                "entity": "内流缺陷"
+            },
+            {
+                "start_idx": 33,
+                "end_idx": 42,
+                "type": "sym",
+                "entity": "管腔内向组织内流减少"
+            },
+            {
+                "start_idx": 46,
+                "end_idx": 51,
+                "type": "sym",
+                "entity": "刷状缘缺失型"
+            },
+            {
+                "start_idx": 60,
+                "end_idx": 63,
+                "type": "bod",
+                "entity": "肾小管腔"
+            },
+            {
+                "start_idx": 54,
+                "end_idx": 65,
+                "type": "sym",
+                "entity": "细胞内回漏到肾小管腔增加"
+            },
+            {
+                "start_idx": 68,
+                "end_idx": 73,
+                "type": "dis",
+                "entity": "马来酸中毒型"
+            },
+            {
+                "start_idx": 78,
+                "end_idx": 87,
+                "type": "sym",
+                "entity": "基底侧细胞膜回流减少"
+            },
+            {
+                "start_idx": 90,
+                "end_idx": 96,
+                "type": "sym",
+                "entity": "细胞内物质堆积"
+            },
+            {
+                "start_idx": 105,
+                "end_idx": 121,
+                "type": "dis",
+                "entity": "Fanconi-Bickel综合征"
+            },
+            {
+                "start_idx": 125,
+                "end_idx": 133,
+                "type": "sym",
+                "entity": "血液向细胞灌注增加"
+            },
+            {
+                "start_idx": 135,
+                "end_idx": 149,
+                "type": "sym",
+                "entity": "通过细胞紧密连接处反流管腔增加"
+            },
+            {
+                "start_idx": 152,
+                "end_idx": 162,
+                "type": "dis",
+                "entity": "细胞色素C氧化酶缺乏型"
+            }
+        ]
+    },
+    {
+        "text": "运用放射性标记物评估肠道排空时间，有助于确定肠道病变的最高部位，确定手术切除的长度，判断可能伴发的肠神经元异常，如B型IND或神经节细胞缺乏的临床特征。",
+        "entities": [
+            {
+                "start_idx": 2,
+                "end_idx": 7,
+                "type": "pro",
+                "entity": "放射性标记物"
+            },
+            {
+                "start_idx": 10,
+                "end_idx": 15,
+                "type": "ite",
+                "entity": "肠道排空时间"
+            },
+            {
+                "start_idx": 22,
+                "end_idx": 23,
+                "type": "bod",
+                "entity": "肠道"
+            },
+            {
+                "start_idx": 49,
+                "end_idx": 54,
+                "type": "dis",
+                "entity": "肠神经元异常"
+            },
+            {
+                "start_idx": 57,
+                "end_idx": 61,
+                "type": "dis",
+                "entity": "B型IND"
+            }
+        ]
+    },
+    {
+        "text": "用毛果芸香碱电离子透入法收集并测定汗液中Cl<sup>-</sup>含量，如超过60mmol/L，结合下列一项或一项以上可诊断本病：典型慢性阻塞性肺疾病，胰腺外分泌功能不全，阳性家族史。",
+        "entities": [
+            {
+                "start_idx": 1,
+                "end_idx": 11,
+                "type": "pro",
+                "entity": "毛果芸香碱电离子透入法"
+            },
+            {
+                "start_idx": 17,
+                "end_idx": 18,
+                "type": "bod",
+                "entity": "汗液"
+            },
+            {
+                "start_idx": 68,
+                "end_idx": 75,
+                "type": "dis",
+                "entity": "慢性阻塞性肺疾病"
+            },
+            {
+                "start_idx": 77,
+                "end_idx": 85,
+                "type": "dis",
+                "entity": "胰腺外分泌功能不全"
+            }
+        ]
+    },
+    {
+        "text": "虽然如此，在日本的早期资料显示对免疫球蛋白治疗无效的患者，肾上腺皮质激素治疗可增加冠状动脉瘤及心肌梗死的发病率。",
+        "entities": [
+            {
+                "start_idx": 29,
+                "end_idx": 37,
+                "type": "pro",
+                "entity": "肾上腺皮质激素治疗"
+            },
+            {
+                "start_idx": 41,
+                "end_idx": 45,
+                "type": "dis",
+                "entity": "冠状动脉瘤"
+            },
+            {
+                "start_idx": 47,
+                "end_idx": 50,
+                "type": "dis",
+                "entity": "心肌梗死"
+            }
+        ]
+    },
+    {
+        "text": "为减慢肿瘤细胞溶解的速度，避免肿瘤细胞溶解综合征形成，对于外周血白细胞计数大于50×109</sup>/L者初始化疗应相对减弱，如仅给泼尼松和长春新碱，在3～7天后才给予较强的化疗。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 6,
+                "type": "bod",
+                "entity": "肿瘤细胞"
+            },
+            {
+                "start_idx": 15,
+                "end_idx": 23,
+                "type": "dis",
+                "entity": "肿瘤细胞溶解综合征"
+            },
+            {
+                "start_idx": 32,
+                "end_idx": 34,
+                "type": "bod",
+                "entity": "白细胞"
+            },
+            {
+                "start_idx": 56,
+                "end_idx": 57,
+                "type": "pro",
+                "entity": "化疗"
+            },
+            {
+                "start_idx": 67,
+                "end_idx": 69,
+                "type": "dru",
+                "entity": "泼尼松"
+            },
+            {
+                "start_idx": 71,
+                "end_idx": 74,
+                "type": "dru",
+                "entity": "长春新碱"
+            },
+            {
+                "start_idx": 88,
+                "end_idx": 89,
+                "type": "dis",
+                "entity": "化疗"
+            }
+        ]
+    },
+    {
+        "text": "⑤尿酸盐：尿酸负荷致肾受损，不定形尿酸盐结晶沉于肾间质引起周围巨噬细胞反应，与此同时，在小管及集合管中也有其结晶，最终导致间质纤维化、小管扩张及萎缩，此种损害只发生于血尿酸持续＞595～773μmol/L（10～13mg/dl）时。",
+        "entities": [
+            {
+                "start_idx": 5,
+                "end_idx": 8,
+                "type": "sym",
+                "entity": "尿酸负荷"
+            },
+            {
+                "start_idx": 10,
+                "end_idx": 12,
+                "type": "dis",
+                "entity": "肾受损"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 26,
+                "type": "bod",
+                "entity": "肾间质"
+            },
+            {
+                "start_idx": 14,
+                "end_idx": 26,
+                "type": "sym",
+                "entity": "不定形尿酸盐结晶沉于肾间质"
+            },
+            {
+                "start_idx": 31,
+                "end_idx": 34,
+                "type": "bod",
+                "entity": "巨噬细胞"
+            },
+            {
+                "start_idx": 29,
+                "end_idx": 36,
+                "type": "sym",
+                "entity": "周围巨噬细胞反应"
+            },
+            {
+                "start_idx": 44,
+                "end_idx": 49,
+                "type": "bod",
+                "entity": "小管及集合管"
+            },
+            {
+                "start_idx": 44,
+                "end_idx": 55,
+                "type": "sym",
+                "entity": "小管及集合管中也有其结晶"
+            },
+            {
+                "start_idx": 61,
+                "end_idx": 65,
+                "type": "sym",
+                "entity": "间质纤维化"
+            },
+            {
+                "start_idx": 67,
+                "end_idx": 73,
+                "type": "sym",
+                "entity": "小管扩张及萎缩"
+            },
+            {
+                "start_idx": 83,
+                "end_idx": 85,
+                "type": "ite",
+                "entity": "血尿酸"
+            },
+            {
+                "start_idx": 83,
+                "end_idx": 113,
+                "type": "sym",
+                "entity": "血尿酸持续＞595～773μmol/L（10～13mg/dl）"
+            }
+        ]
+    },
+    {
+        "text": "对出生体重≤1000g的早产儿，在出生当天进行预防性的动脉导管结扎，经临床随机、对照研究发现可降低坏死性小肠结肠炎的发生率。",
+        "entities": [
+            {
+                "start_idx": 27,
+                "end_idx": 32,
+                "type": "pro",
+                "entity": "动脉导管结扎"
+            },
+            {
+                "start_idx": 49,
+                "end_idx": 56,
+                "type": "dis",
+                "entity": "坏死性小肠结肠炎"
+            }
+        ]
+    },
+    {
+        "text": "（三）幽门螺杆菌阴性消化性溃疡的传统治疗在下述药物中，以H2</sub>受体阻滞剂应用最多，其机制为抑制组胺对壁细胞的泌酸作用，但对于胆碱能神经或胃泌素合并的餐后胃酸分泌影响较小。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 14,
+                "type": "dis",
+                "entity": "幽门螺杆菌阴性消化性溃疡"
+            },
+            {
+                "start_idx": 52,
+                "end_idx": 53,
+                "type": "bod",
+                "entity": "组胺"
+            },
+            {
+                "start_idx": 55,
+                "end_idx": 57,
+                "type": "bod",
+                "entity": "壁细胞"
+            },
+            {
+                "start_idx": 67,
+                "end_idx": 71,
+                "type": "bod",
+                "entity": "胆碱能神经"
+            },
+            {
+                "start_idx": 73,
+                "end_idx": 75,
+                "type": "bod",
+                "entity": "胃泌素"
+            },
+            {
+                "start_idx": 81,
+                "end_idx": 82,
+                "type": "bod",
+                "entity": "胃酸"
+            }
+        ]
+    },
+    {
+        "text": "早期出现症状的患者中可通过MRI检测到脑结构的改变铜的沉积螯合剂的治疗可发生可逆性改变。",
+        "entities": [
+            {
+                "start_idx": 13,
+                "end_idx": 17,
+                "type": "pro",
+                "entity": "MRI检测"
+            },
+            {
+                "start_idx": 19,
+                "end_idx": 19,
+                "type": "bod",
+                "entity": "脑"
+            },
+            {
+                "start_idx": 19,
+                "end_idx": 24,
+                "type": "sym",
+                "entity": "脑结构的改变"
+            },
+            {
+                "start_idx": 25,
+                "end_idx": 25,
+                "type": "bod",
+                "entity": "铜"
+            },
+            {
+                "start_idx": 25,
+                "end_idx": 28,
+                "type": "sym",
+                "entity": "铜的沉积"
+            },
+            {
+                "start_idx": 29,
+                "end_idx": 31,
+                "type": "dru",
+                "entity": "螯合剂"
+            }
+        ]
+    },
+    {
+        "text": "2.ABPA治疗皮质类固醇类激素目前依然是治疗的金标准，常规剂量，依据临床反应调整，可使大部分患者症状减轻、肺部阴影消退、延缓肺功能减退和肺纤维化等毁损肺的发生。",
+        "entities": [
+            {
+                "start_idx": 2,
+                "end_idx": 5,
+                "type": "dis",
+                "entity": "ABPA"
+            },
+            {
+                "start_idx": 8,
+                "end_idx": 15,
+                "type": "dru",
+                "entity": "皮质类固醇类激素"
+            },
+            {
+                "start_idx": 54,
+                "end_idx": 59,
+                "type": "sym",
+                "entity": "肺部阴影消退"
+            },
+            {
+                "start_idx": 61,
+                "end_idx": 67,
+                "type": "sym",
+                "entity": "延缓肺功能减退"
+            },
+            {
+                "start_idx": 69,
+                "end_idx": 72,
+                "type": "sym",
+                "entity": "肺纤维化"
+            },
+            {
+                "start_idx": 76,
+                "end_idx": 76,
+                "type": "bod",
+                "entity": "肺"
+            }
+        ]
+    },
+    {
+        "text": "7.黏多糖病Ⅶ型临床表现同黏多糖病I-H型，但个体轻重程度不一，变异较大，轻者可无智能落后，本型为常染色体隐性遗传性疾病，因β-葡萄糖醛酸酶缺乏，导致4/6硫酸软骨素在体内沉积。",
+        "entities": [
+            {
+                "start_idx": 2,
+                "end_idx": 7,
+                "type": "dis",
+                "entity": "黏多糖病Ⅶ型"
+            },
+            {
+                "start_idx": 13,
+                "end_idx": 20,
+                "type": "dis",
+                "entity": "黏多糖病I-H型"
+            },
+            {
+                "start_idx": 49,
+                "end_idx": 59,
+                "type": "dis",
+                "entity": "常染色体隐性遗传性疾病"
+            },
+            {
+                "start_idx": 62,
+                "end_idx": 71,
+                "type": "sym",
+                "entity": "β-葡萄糖醛酸酶缺乏"
+            },
+            {
+                "start_idx": 78,
+                "end_idx": 82,
+                "type": "bod",
+                "entity": "硫酸软骨素"
+            }
+        ]
+    },
+    {
+        "text": "256例JIA患儿检测ANA阳性结果分析与发病年龄偏小、不对称性关节炎及虹膜睫状体炎的发生有关。",
+        "entities": [
+            {
+                "start_idx": 4,
+                "end_idx": 6,
+                "type": "dis",
+                "entity": "JIA"
+            },
+            {
+                "start_idx": 11,
+                "end_idx": 13,
+                "type": "ite",
+                "entity": "ANA"
+            },
+            {
+                "start_idx": 36,
+                "end_idx": 41,
+                "type": "dis",
+                "entity": "虹膜睫状体炎"
+            }
+        ]
+    },
+    {
+        "text": "影响NHL预后的主要因素是初诊时肿瘤的负荷，LDH水平超过正常值2倍、存在中枢浸润和/或骨髓转移时提示肿瘤负荷高，预后相对不良，需要更强烈的治疗。",
+        "entities": [
+            {
+                "start_idx": 2,
+                "end_idx": 4,
+                "type": "dis",
+                "entity": "NHL"
+            },
+            {
+                "start_idx": 16,
+                "end_idx": 17,
+                "type": "dis",
+                "entity": "肿瘤"
+            },
+            {
+                "start_idx": 22,
+                "end_idx": 24,
+                "type": "ite",
+                "entity": "LDH"
+            },
+            {
+                "start_idx": 37,
+                "end_idx": 38,
+                "type": "bod",
+                "entity": "中枢"
+            },
+            {
+                "start_idx": 44,
+                "end_idx": 45,
+                "type": "bod",
+                "entity": "骨髓"
+            },
+            {
+                "start_idx": 51,
+                "end_idx": 52,
+                "type": "dis",
+                "entity": "肿瘤"
+            }
+        ]
+    },
+    {
+        "text": "VLBW在黄疸不高的情况下，由于低蛋白血症和血脑屏障的发育不完善，也容易发生核黄疸，有人认为体重在1000g的新生儿，一旦其总胆红素为10mg/dl就应换血，以避免核黄疸的发生。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 3,
+                "type": "dis",
+                "entity": "VLBW"
+            },
+            {
+                "start_idx": 5,
+                "end_idx": 5,
+                "type": "dis",
+                "entity": "黄"
+            },
+            {
+                "start_idx": 5,
+                "end_idx": 5,
+                "type": "pro",
+                "entity": "黄"
+            },
+            {
+                "start_idx": 12,
+                "end_idx": 16,
+                "type": "dis",
+                "entity": "下，由于低"
+            },
+            {
+                "start_idx": 18,
+                "end_idx": 21,
+                "type": "dis",
+                "entity": "白血症和"
+            },
+            {
+                "start_idx": 34,
+                "end_idx": 36,
+                "type": "dis",
+                "entity": "容易发"
+            },
+            {
+                "start_idx": 42,
+                "end_idx": 43,
+                "type": "ite",
+                "entity": "有人"
+            },
+            {
+                "start_idx": 58,
+                "end_idx": 61,
+                "type": "ite",
+                "entity": "，一旦其"
+            },
+            {
+                "start_idx": 58,
+                "end_idx": 69,
+                "type": "sym",
+                "entity": "，一旦其总胆红素为10m"
+            },
+            {
+                "start_idx": 72,
+                "end_idx": 73,
+                "type": "pro",
+                "entity": "dl"
+            },
+            {
+                "start_idx": 78,
+                "end_idx": 80,
+                "type": "dis",
+                "entity": "，以避"
+            }
+        ]
+    },
+    {
+        "text": "在婴儿，偶可应用心内膜心肌活体组织检查来确定病因，如线粒体肌病、糖原累积病等。",
+        "entities": [
+            {
+                "start_idx": 26,
+                "end_idx": 30,
+                "type": "dis",
+                "entity": "线粒体肌病"
+            },
+            {
+                "start_idx": 32,
+                "end_idx": 36,
+                "type": "dis",
+                "entity": "糖原累积病"
+            }
+        ]
+    },
+    {
+        "text": "表12-4常见范可尼综合征的特征及鉴别注：PAH，对氨基马尿酸；+，轻度受损；++，中度受损；+++，严重受损；AD，常染色体显性；AR，常染色体隐性；XLR，X连锁隐性遗传【诊断与鉴别诊断】本病无特异诊断试验，根据生长迟缓、佝偻病、多尿及脱水、酸中毒、电解质紊乱相应的临床表现，血生化检查见低血钾、低血磷、低血钠、低血氯性酸中毒、高AKP、低血尿酸、糖尿而血糖正常，全氨基酸尿、尿pH低而尿氨和可滴定酸低，X线检查有骨质疏松及佝偻病表现均有助于骨质疏松注意询问家族史。",
+        "entities": [
+            {
+                "start_idx": 7,
+                "end_idx": 12,
+                "type": "dis",
+                "entity": "范可尼综合征"
+            },
+            {
+                "start_idx": 56,
+                "end_idx": 57,
+                "type": "sym",
+                "entity": "AD"
+            },
+            {
+                "start_idx": 59,
+                "end_idx": 64,
+                "type": "sym",
+                "entity": "常染色体显性"
+            },
+            {
+                "start_idx": 66,
+                "end_idx": 67,
+                "type": "sym",
+                "entity": "AR"
+            },
+            {
+                "start_idx": 69,
+                "end_idx": 74,
+                "type": "sym",
+                "entity": "常染色体隐性"
+            },
+            {
+                "start_idx": 76,
+                "end_idx": 78,
+                "type": "sym",
+                "entity": "XLR"
+            },
+            {
+                "start_idx": 80,
+                "end_idx": 86,
+                "type": "sym",
+                "entity": "X连锁隐性遗传"
+            },
+            {
+                "start_idx": 108,
+                "end_idx": 111,
+                "type": "sym",
+                "entity": "生长迟缓"
+            },
+            {
+                "start_idx": 113,
+                "end_idx": 115,
+                "type": "sym",
+                "entity": "佝偻病"
+            },
+            {
+                "start_idx": 117,
+                "end_idx": 118,
+                "type": "sym",
+                "entity": "多尿"
+            },
+            {
+                "start_idx": 120,
+                "end_idx": 121,
+                "type": "sym",
+                "entity": "脱水"
+            },
+            {
+                "start_idx": 123,
+                "end_idx": 125,
+                "type": "dis",
+                "entity": "酸中毒"
+            },
+            {
+                "start_idx": 127,
+                "end_idx": 131,
+                "type": "sym",
+                "entity": "电解质紊乱"
+            },
+            {
+                "start_idx": 146,
+                "end_idx": 148,
+                "type": "sym",
+                "entity": "低血钾"
+            },
+            {
+                "start_idx": 150,
+                "end_idx": 152,
+                "type": "sym",
+                "entity": "低血磷"
+            },
+            {
+                "start_idx": 154,
+                "end_idx": 156,
+                "type": "sym",
+                "entity": "低血钠"
+            },
+            {
+                "start_idx": 158,
+                "end_idx": 164,
+                "type": "dis",
+                "entity": "低血氯性酸中毒"
+            },
+            {
+                "start_idx": 166,
+                "end_idx": 169,
+                "type": "sym",
+                "entity": "高AKP"
+            },
+            {
+                "start_idx": 171,
+                "end_idx": 174,
+                "type": "sym",
+                "entity": "低血尿酸"
+            },
+            {
+                "start_idx": 176,
+                "end_idx": 177,
+                "type": "sym",
+                "entity": "糖尿"
+            },
+            {
+                "start_idx": 184,
+                "end_idx": 188,
+                "type": "sym",
+                "entity": "全氨基酸尿"
+            },
+            {
+                "start_idx": 190,
+                "end_idx": 193,
+                "type": "sym",
+                "entity": "尿pH低"
+            },
+            {
+                "start_idx": 195,
+                "end_idx": 202,
+                "type": "sym",
+                "entity": "尿氨和可滴定酸低"
+            },
+            {
+                "start_idx": 204,
+                "end_idx": 207,
+                "type": "pro",
+                "entity": "X线检查"
+            },
+            {
+                "start_idx": 209,
+                "end_idx": 212,
+                "type": "sym",
+                "entity": "骨质疏松"
+            },
+            {
+                "start_idx": 214,
+                "end_idx": 216,
+                "type": "dis",
+                "entity": "佝偻病"
+            },
+            {
+                "start_idx": 223,
+                "end_idx": 226,
+                "type": "dis",
+                "entity": "骨质疏松"
+            }
+        ]
+    },
+    {
+        "text": "2.早产儿RDS可以在应用肺表面活性物质无效并存在肺动脉高压时使用，但必须密切观察是否出现颅内出血症状。",
+        "entities": [
+            {
+                "start_idx": 5,
+                "end_idx": 7,
+                "type": "dis",
+                "entity": "RDS"
+            },
+            {
+                "start_idx": 11,
+                "end_idx": 19,
+                "type": "pro",
+                "entity": "应用肺表面活性物质"
+            },
+            {
+                "start_idx": 25,
+                "end_idx": 29,
+                "type": "dis",
+                "entity": "肺动脉高压"
+            },
+            {
+                "start_idx": 45,
+                "end_idx": 46,
+                "type": "bod",
+                "entity": "颅内"
+            },
+            {
+                "start_idx": 45,
+                "end_idx": 50,
+                "type": "sym",
+                "entity": "颅内出血症状"
+            }
+        ]
+    },
+    {
+        "text": "有中至大型左向右分流，产生心力衰竭的婴儿，当可能出现缺损部分或完全自然关闭时，也可最初以药物治疗：①利尿剂降低心脏负荷和体循环静脉的充血状况。",
+        "entities": [
+            {
+                "start_idx": 13,
+                "end_idx": 16,
+                "type": "dis",
+                "entity": "心力衰竭"
+            },
+            {
+                "start_idx": 26,
+                "end_idx": 27,
+                "type": "dis",
+                "entity": "缺损"
+            },
+            {
+                "start_idx": 44,
+                "end_idx": 47,
+                "type": "pro",
+                "entity": "药物治疗"
+            },
+            {
+                "start_idx": 50,
+                "end_idx": 52,
+                "type": "dru",
+                "entity": "利尿剂"
+            },
+            {
+                "start_idx": 55,
+                "end_idx": 56,
+                "type": "bod",
+                "entity": "心脏"
+            },
+            {
+                "start_idx": 60,
+                "end_idx": 64,
+                "type": "bod",
+                "entity": "体循环静脉"
+            }
+        ]
+    },
+    {
+        "text": "若体肺循环血流量平衡，患儿早期可存活，但如不治疗，90%的病人在10岁以前死亡，一些患者可活至20～30岁，不过长期左心室超负荷必然会引起左心室功能不全二尖瓣功能障碍心排出量减少心室大动脉连接不一致者，其病情变化较连接一致者更严重，部分患者同时伴有水肿或主动脉断离，不经治疗常在1岁以内夭折。",
+        "entities": [
+            {
+                "start_idx": 1,
+                "end_idx": 7,
+                "type": "ite",
+                "entity": "体肺循环血流量"
+            },
+            {
+                "start_idx": 58,
+                "end_idx": 60,
+                "type": "bod",
+                "entity": "左心室"
+            },
+            {
+                "start_idx": 69,
+                "end_idx": 71,
+                "type": "bod",
+                "entity": "左心室"
+            },
+            {
+                "start_idx": 69,
+                "end_idx": 75,
+                "type": "sym",
+                "entity": "左心室功能不全"
+            },
+            {
+                "start_idx": 76,
+                "end_idx": 78,
+                "type": "bod",
+                "entity": "二尖瓣"
+            },
+            {
+                "start_idx": 76,
+                "end_idx": 82,
+                "type": "sym",
+                "entity": "二尖瓣功能障碍"
+            },
+            {
+                "start_idx": 83,
+                "end_idx": 86,
+                "type": "ite",
+                "entity": "心排出量"
+            },
+            {
+                "start_idx": 83,
+                "end_idx": 88,
+                "type": "sym",
+                "entity": "心排出量减少"
+            },
+            {
+                "start_idx": 89,
+                "end_idx": 90,
+                "type": "bod",
+                "entity": "心室"
+            },
+            {
+                "start_idx": 92,
+                "end_idx": 93,
+                "type": "bod",
+                "entity": "动脉"
+            },
+            {
+                "start_idx": 124,
+                "end_idx": 125,
+                "type": "sym",
+                "entity": "水肿"
+            }
+        ]
+    },
+    {
+        "text": "对于胎龄小于32周的VLBW，其肺泡Ⅱ型上皮细胞及其功能的发育尚未完善，缺乏产生肺表面活性物质的能力或数量极少，导致新生儿呼吸窘迫综合征的发生率增高。",
+        "entities": [
+            {
+                "start_idx": 10,
+                "end_idx": 13,
+                "type": "dis",
+                "entity": "VLBW"
+            },
+            {
+                "start_idx": 16,
+                "end_idx": 23,
+                "type": "bod",
+                "entity": "肺泡Ⅱ型上皮细胞"
+            },
+            {
+                "start_idx": 16,
+                "end_idx": 34,
+                "type": "sym",
+                "entity": "肺泡Ⅱ型上皮细胞及其功能的发育尚未完善"
+            },
+            {
+                "start_idx": 40,
+                "end_idx": 46,
+                "type": "bod",
+                "entity": "肺表面活性物质"
+            },
+            {
+                "start_idx": 36,
+                "end_idx": 54,
+                "type": "sym",
+                "entity": "缺乏产生肺表面活性物质的能力或数量极少"
+            },
+            {
+                "start_idx": 61,
+                "end_idx": 67,
+                "type": "dis",
+                "entity": "呼吸窘迫综合征"
+            }
+        ]
+    },
+    {
+        "text": "（二）WHO对本病的病理分级Ⅰ级：光镜大多数肾小球正常，少数部位有轻度系膜增生伴/不伴细胞增生小管和间质损害。",
+        "entities": [
+            {
+                "start_idx": 22,
+                "end_idx": 24,
+                "type": "bod",
+                "entity": "肾小球"
+            },
+            {
+                "start_idx": 36,
+                "end_idx": 36,
+                "type": "bod",
+                "entity": "膜"
+            },
+            {
+                "start_idx": 43,
+                "end_idx": 44,
+                "type": "bod",
+                "entity": "细胞"
+            },
+            {
+                "start_idx": 17,
+                "end_idx": 46,
+                "type": "sym",
+                "entity": "光镜大多数肾小球正常，少数部位有轻度系膜增生伴/不伴细胞增生"
+            },
+            {
+                "start_idx": 47,
+                "end_idx": 48,
+                "type": "bod",
+                "entity": "小管"
+            },
+            {
+                "start_idx": 50,
+                "end_idx": 51,
+                "type": "bod",
+                "entity": "间质"
+            }
+        ]
+    },
+    {
+        "text": "表17-11小儿HIV感染分类注：如不能确定已有HIV感染，则在上述符合前加“E”，例如EN2（三）小儿AIDS的主要临床征象1.持续性全身淋巴结肿大全身淋巴结肿大病原微生物感染常出现反复腹泻、皮疹、肝脾肿大、口腔鹅口疮以及皮肤黏膜念珠菌病等。",
+        "entities": [
+            {
+                "start_idx": 6,
+                "end_idx": 12,
+                "type": "dis",
+                "entity": "小儿HIV感染"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 28,
+                "type": "dis",
+                "entity": "HIV感染"
+            },
+            {
+                "start_idx": 50,
+                "end_idx": 55,
+                "type": "dis",
+                "entity": "小儿AIDS"
+            },
+            {
+                "start_idx": 70,
+                "end_idx": 72,
+                "type": "bod",
+                "entity": "淋巴结"
+            },
+            {
+                "start_idx": 65,
+                "end_idx": 74,
+                "type": "sym",
+                "entity": "持续性全身淋巴结肿大"
+            },
+            {
+                "start_idx": 77,
+                "end_idx": 79,
+                "type": "bod",
+                "entity": "淋巴结"
+            },
+            {
+                "start_idx": 75,
+                "end_idx": 81,
+                "type": "sym",
+                "entity": "全身淋巴结肿大"
+            },
+            {
+                "start_idx": 82,
+                "end_idx": 88,
+                "type": "dis",
+                "entity": "病原微生物感染"
+            },
+            {
+                "start_idx": 92,
+                "end_idx": 95,
+                "type": "sym",
+                "entity": "反复腹泻"
+            },
+            {
+                "start_idx": 97,
+                "end_idx": 98,
+                "type": "dis",
+                "entity": "皮疹"
+            },
+            {
+                "start_idx": 100,
+                "end_idx": 103,
+                "type": "sym",
+                "entity": "肝脾肿大"
+            },
+            {
+                "start_idx": 105,
+                "end_idx": 109,
+                "type": "dis",
+                "entity": "口腔鹅口疮"
+            },
+            {
+                "start_idx": 112,
+                "end_idx": 119,
+                "type": "dis",
+                "entity": "皮肤黏膜念珠菌病"
+            }
+        ]
+    },
+    {
+        "text": "PPHN多见于足月儿、近足月或过期产儿，但是早产儿亦可出现肺血管阻力的异常增高。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 3,
+                "type": "dis",
+                "entity": "PPHN"
+            },
+            {
+                "start_idx": 29,
+                "end_idx": 31,
+                "type": "bod",
+                "entity": "肺血管"
+            },
+            {
+                "start_idx": 29,
+                "end_idx": 38,
+                "type": "sym",
+                "entity": "肺血管阻力的异常增高"
+            }
+        ]
+    },
+    {
+        "text": "偶尔也可见于肺外疾病，如Duchenne型肌营养不良时进行性膈肌无力导致的气体交换不足。",
+        "entities": [
+            {
+                "start_idx": 12,
+                "end_idx": 21,
+                "type": "bod",
+                "entity": "Duchenne型肌"
+            },
+            {
+                "start_idx": 22,
+                "end_idx": 25,
+                "type": "dis",
+                "entity": "营养不良"
+            },
+            {
+                "start_idx": 27,
+                "end_idx": 33,
+                "type": "dis",
+                "entity": "进行性膈肌无力"
+            }
+        ]
+    },
+    {
+        "text": "为控制炎症过程，延缓肺部病变的发展，有人提出应用皮质激素吸入治疗，但迄今尚缺乏肯定有效的证据，常规应用仅限于伴有严重反应性气道疾病者。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 4,
+                "type": "dis",
+                "entity": "炎症"
+            },
+            {
+                "start_idx": 10,
+                "end_idx": 13,
+                "type": "sym",
+                "entity": "肺部病变"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 31,
+                "type": "pro",
+                "entity": "皮质激素吸入治疗"
+            },
+            {
+                "start_idx": 56,
+                "end_idx": 64,
+                "type": "dis",
+                "entity": "严重反应性气道疾病"
+            }
+        ]
+    },
+    {
+        "text": "另外，10%～20%的病人，尤其是难治性的复杂性部分性癫痫，早期CT检查可呈阴性结果，因此必要时需重复影像学检查。",
+        "entities": [
+            {
+                "start_idx": 27,
+                "end_idx": 28,
+                "type": "dis",
+                "entity": "癫痫"
+            },
+            {
+                "start_idx": 32,
+                "end_idx": 35,
+                "type": "pro",
+                "entity": "CT检查"
+            },
+            {
+                "start_idx": 51,
+                "end_idx": 55,
+                "type": "pro",
+                "entity": "影像学检查"
+            }
+        ]
+    },
+    {
+        "text": "脑部造成的异位损害，常见者主要为急性感染时童虫移行至脑血管中，致使成虫产卵沉积在脑部，急性期可发生类似脑炎、脑膜炎的症状，经病原学治疗症状很快消失。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 1,
+                "type": "bod",
+                "entity": "脑部"
+            },
+            {
+                "start_idx": 5,
+                "end_idx": 8,
+                "type": "dis",
+                "entity": "异位损害"
+            },
+            {
+                "start_idx": 16,
+                "end_idx": 19,
+                "type": "dis",
+                "entity": "急性感染"
+            },
+            {
+                "start_idx": 21,
+                "end_idx": 22,
+                "type": "mic",
+                "entity": "童虫"
+            },
+            {
+                "start_idx": 26,
+                "end_idx": 28,
+                "type": "bod",
+                "entity": "脑血管"
+            },
+            {
+                "start_idx": 40,
+                "end_idx": 41,
+                "type": "bod",
+                "entity": "脑部"
+            },
+            {
+                "start_idx": 51,
+                "end_idx": 52,
+                "type": "dis",
+                "entity": "脑炎"
+            },
+            {
+                "start_idx": 54,
+                "end_idx": 56,
+                "type": "dis",
+                "entity": "脑膜炎"
+            }
+        ]
+    },
+    {
+        "text": "Fontan手术：主要用于早期姑息性手术后仍存在低氧血症、出现活动量明显减少的患儿。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 7,
+                "type": "pro",
+                "entity": "Fontan手术"
+            },
+            {
+                "start_idx": 15,
+                "end_idx": 19,
+                "type": "pro",
+                "entity": "姑息性手术"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 27,
+                "type": "dis",
+                "entity": "低氧血症"
+            }
+        ]
+    },
+    {
+        "text": "（二）潜伏期出现在原发肺损伤后6～48小时，此阶段可以因机械通气或氧疗，使患儿心血管和呼吸功能、血气均出现暂时稳定或有所改善。",
+        "entities": [
+            {
+                "start_idx": 9,
+                "end_idx": 13,
+                "type": "dis",
+                "entity": "原发肺损伤"
+            },
+            {
+                "start_idx": 28,
+                "end_idx": 31,
+                "type": "pro",
+                "entity": "机械通气"
+            },
+            {
+                "start_idx": 33,
+                "end_idx": 34,
+                "type": "pro",
+                "entity": "氧疗"
+            },
+            {
+                "start_idx": 39,
+                "end_idx": 61,
+                "type": "sym",
+                "entity": "心血管和呼吸功能、血气均出现暂时稳定或有所改善"
+            }
+        ]
+    },
+    {
+        "text": "（二）肺血减少大多数患儿在新生儿期即可出现发绀或心脏杂音青紫最常见于中央型青紫，其严重程度与肺血管流出道梗阻程度有关，如肺血流进一步减少，则在婴儿时期就出现缺氧发作。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 6,
+                "type": "sym",
+                "entity": "肺血减少"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 25,
+                "type": "bod",
+                "entity": "心脏"
+            },
+            {
+                "start_idx": 21,
+                "end_idx": 27,
+                "type": "sym",
+                "entity": "发绀或心脏杂音"
+            },
+            {
+                "start_idx": 28,
+                "end_idx": 29,
+                "type": "sym",
+                "entity": "青紫"
+            },
+            {
+                "start_idx": 34,
+                "end_idx": 38,
+                "type": "sym",
+                "entity": "中央型青紫"
+            },
+            {
+                "start_idx": 46,
+                "end_idx": 53,
+                "type": "sym",
+                "entity": "肺血管流出道梗阻"
+            },
+            {
+                "start_idx": 60,
+                "end_idx": 60,
+                "type": "bod",
+                "entity": "肺"
+            },
+            {
+                "start_idx": 78,
+                "end_idx": 79,
+                "type": "sym",
+                "entity": "缺氧"
+            }
+        ]
+    },
+    {
+        "text": "图9-15降主动脉造影侧位片示：存在动脉导管未闭（箭头所示）【治疗】（一）早产儿对于早产儿，早期就需限制液体和钠盐的摄入量。",
+        "entities": [
+            {
+                "start_idx": 5,
+                "end_idx": 10,
+                "type": "pro",
+                "entity": "降主动脉造影"
+            },
+            {
+                "start_idx": 18,
+                "end_idx": 23,
+                "type": "dis",
+                "entity": "动脉导管未闭"
+            }
+        ]
+    },
+    {
+        "text": "女性患者所生新生儿，其中约10%经过胎盘转运获得烟碱型乙酰胆碱受体抗体（nAChRab），可暂时出现肌无力症状。",
+        "entities": [
+            {
+                "start_idx": 18,
+                "end_idx": 19,
+                "type": "bod",
+                "entity": "胎盘"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 34,
+                "type": "bod",
+                "entity": "烟碱型乙酰胆碱受体抗体"
+            },
+            {
+                "start_idx": 36,
+                "end_idx": 42,
+                "type": "bod",
+                "entity": "nAChRab"
+            },
+            {
+                "start_idx": 50,
+                "end_idx": 52,
+                "type": "dis",
+                "entity": "肌无力"
+            }
+        ]
+    },
+    {
+        "text": "某些临床表现提示有发生冠心病的危险，包括发热持续16天以上，反复发热之间间隔48小时以上，除了有Ⅰ°心传导阻滞以外的其他心律失常，小于1岁发病，心脏扩大，血小板计数﹑血清清蛋白及血细胞计数低。",
+        "entities": [
+            {
+                "start_idx": 11,
+                "end_idx": 13,
+                "type": "dis",
+                "entity": "冠心病"
+            },
+            {
+                "start_idx": 20,
+                "end_idx": 21,
+                "type": "sym",
+                "entity": "发热"
+            },
+            {
+                "start_idx": 32,
+                "end_idx": 33,
+                "type": "sym",
+                "entity": "发热"
+            },
+            {
+                "start_idx": 48,
+                "end_idx": 54,
+                "type": "sym",
+                "entity": "Ⅰ°心传导阻滞"
+            },
+            {
+                "start_idx": 60,
+                "end_idx": 61,
+                "type": "ite",
+                "entity": "心律"
+            },
+            {
+                "start_idx": 60,
+                "end_idx": 63,
+                "type": "sym",
+                "entity": "心律失常"
+            },
+            {
+                "start_idx": 72,
+                "end_idx": 75,
+                "type": "sym",
+                "entity": "心脏扩大"
+            },
+            {
+                "start_idx": 77,
+                "end_idx": 81,
+                "type": "ite",
+                "entity": "血小板计数"
+            },
+            {
+                "start_idx": 83,
+                "end_idx": 87,
+                "type": "ite",
+                "entity": "血清清蛋白"
+            },
+            {
+                "start_idx": 89,
+                "end_idx": 93,
+                "type": "ite",
+                "entity": "血细胞计数"
+            },
+            {
+                "start_idx": 77,
+                "end_idx": 94,
+                "type": "sym",
+                "entity": "血小板计数﹑血清清蛋白及血细胞计数低"
+            }
+        ]
+    },
+    {
+        "text": "（六）宫内感染孕早期患腮腺炎时，胎儿病死率增高，有报告腮腺病毒与胎儿、新生儿原发性心内膜纤维弹力组织增生症有关，但有人持反对意见。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 6,
+                "type": "dis",
+                "entity": "宫内感染"
+            },
+            {
+                "start_idx": 11,
+                "end_idx": 13,
+                "type": "dis",
+                "entity": "腮腺炎"
+            },
+            {
+                "start_idx": 27,
+                "end_idx": 30,
+                "type": "mic",
+                "entity": "腮腺病毒"
+            },
+            {
+                "start_idx": 32,
+                "end_idx": 52,
+                "type": "dis",
+                "entity": "胎儿、新生儿原发性心内膜纤维弹力组织增生症"
+            }
+        ]
+    },
+    {
+        "text": "PPHN指生后肺血管阻力持续性增高，肺动脉压超过体循环动脉压，使由胎儿型循环过渡至正常“成人”型循环发生障碍，而引起的心房及（或）动脉导管水平血液的右向左分流，临床出现严重低氧血症等症状。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 3,
+                "type": "dis",
+                "entity": "PPHN"
+            },
+            {
+                "start_idx": 7,
+                "end_idx": 9,
+                "type": "bod",
+                "entity": "肺血管"
+            },
+            {
+                "start_idx": 7,
+                "end_idx": 16,
+                "type": "sym",
+                "entity": "肺血管阻力持续性增高"
+            },
+            {
+                "start_idx": 18,
+                "end_idx": 29,
+                "type": "sym",
+                "entity": "肺动脉压超过体循环动脉压"
+            },
+            {
+                "start_idx": 59,
+                "end_idx": 60,
+                "type": "bod",
+                "entity": "心房"
+            },
+            {
+                "start_idx": 65,
+                "end_idx": 68,
+                "type": "bod",
+                "entity": "动脉导管"
+            },
+            {
+                "start_idx": 59,
+                "end_idx": 78,
+                "type": "sym",
+                "entity": "心房及（或）动脉导管水平血液的右向左分流"
+            },
+            {
+                "start_idx": 86,
+                "end_idx": 89,
+                "type": "dis",
+                "entity": "低氧血症"
+            }
+        ]
+    },
+    {
+        "text": "1分钟评分与动脉血pH相关，但不完全一致，如母亲分娩时用麻醉药或止痛药使新生儿生后呼吸抑制，Apgar评分虽低，但无宫内缺氧，血气改变相对较轻。",
+        "entities": [
+            {
+                "start_idx": 28,
+                "end_idx": 30,
+                "type": "dru",
+                "entity": "麻醉药"
+            },
+            {
+                "start_idx": 32,
+                "end_idx": 34,
+                "type": "dru",
+                "entity": "止痛药"
+            },
+            {
+                "start_idx": 41,
+                "end_idx": 44,
+                "type": "sym",
+                "entity": "呼吸抑制"
+            },
+            {
+                "start_idx": 58,
+                "end_idx": 61,
+                "type": "sym",
+                "entity": "宫内缺氧"
+            },
+            {
+                "start_idx": 63,
+                "end_idx": 64,
+                "type": "ite",
+                "entity": "血气"
+            }
+        ]
+    },
+    {
+        "text": "粒细胞缺乏症多发生在服药开始几周或几个月，常伴有发热，故在治疗最初期间，应经常复查血常规，一旦白细胞低于4×109</sup>/L，应减少或停服抗甲状腺药物，并给予升白细胞药物（如鲨肝醇、利血生及MG-CSF等）治疗。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 5,
+                "type": "dis",
+                "entity": "粒细胞缺乏症"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 25,
+                "type": "dis",
+                "entity": "发热"
+            },
+            {
+                "start_idx": 41,
+                "end_idx": 43,
+                "type": "pro",
+                "entity": "血常规"
+            },
+            {
+                "start_idx": 47,
+                "end_idx": 49,
+                "type": "ite",
+                "entity": "白细胞"
+            },
+            {
+                "start_idx": 72,
+                "end_idx": 77,
+                "type": "dru",
+                "entity": "抗甲状腺药物"
+            },
+            {
+                "start_idx": 82,
+                "end_idx": 87,
+                "type": "dru",
+                "entity": "升白细胞药物"
+            },
+            {
+                "start_idx": 90,
+                "end_idx": 92,
+                "type": "dru",
+                "entity": "鲨肝醇"
+            },
+            {
+                "start_idx": 94,
+                "end_idx": 96,
+                "type": "dru",
+                "entity": "利血生"
+            },
+            {
+                "start_idx": 98,
+                "end_idx": 103,
+                "type": "dru",
+                "entity": "MG-CSF"
+            }
+        ]
+    },
+    {
+        "text": "（一）糖皮质激素在儿童肾移植中应用，一般认为＞0.5mg/（kg•d）可抑制生长发育，而隔日疗法对生长发育影响较小，并可减少不良反应；在保持移植肾功能良好的情况下超过2年后完全停药，但部分患儿则因排斥反应而需重新服用激素。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 7,
+                "type": "dru",
+                "entity": "糖皮质激素"
+            },
+            {
+                "start_idx": 9,
+                "end_idx": 13,
+                "type": "pro",
+                "entity": "儿童肾移植"
+            },
+            {
+                "start_idx": 36,
+                "end_idx": 41,
+                "type": "sym",
+                "entity": "抑制生长发育"
+            },
+            {
+                "start_idx": 44,
+                "end_idx": 47,
+                "type": "pro",
+                "entity": "隔日疗法"
+            },
+            {
+                "start_idx": 72,
+                "end_idx": 72,
+                "type": "bod",
+                "entity": "肾"
+            },
+            {
+                "start_idx": 98,
+                "end_idx": 101,
+                "type": "sym",
+                "entity": "排斥反应"
+            },
+            {
+                "start_idx": 108,
+                "end_idx": 109,
+                "type": "dru",
+                "entity": "激素"
+            }
+        ]
+    },
+    {
+        "text": "在小儿时期慢性TIN还可由代谢病引起，如①胱氨酸病：见本章第四节。",
+        "entities": [
+            {
+                "start_idx": 5,
+                "end_idx": 9,
+                "type": "dis",
+                "entity": "慢性TIN"
+            },
+            {
+                "start_idx": 21,
+                "end_idx": 24,
+                "type": "dis",
+                "entity": "胱氨酸病"
+            }
+        ]
+    },
+    {
+        "text": "表8-27肺泡通气和血气参数的关系3.过度通气目前不主张采用过度通气的方法，因可能导致新生儿和婴幼儿脑血流显著下降，诱发缺血缺氧性脑损伤。",
+        "entities": [
+            {
+                "start_idx": 21,
+                "end_idx": 22,
+                "type": "pro",
+                "entity": "通气"
+            },
+            {
+                "start_idx": 32,
+                "end_idx": 33,
+                "type": "pro",
+                "entity": "通气"
+            },
+            {
+                "start_idx": 50,
+                "end_idx": 50,
+                "type": "bod",
+                "entity": "脑"
+            },
+            {
+                "start_idx": 50,
+                "end_idx": 56,
+                "type": "sym",
+                "entity": "脑血流显著下降"
+            },
+            {
+                "start_idx": 60,
+                "end_idx": 67,
+                "type": "dis",
+                "entity": "缺血缺氧性脑损伤"
+            }
+        ]
+    },
+    {
+        "text": "大部分没有胎粪污染羊水，而无早产儿发生RDS的情况，但可以有产前和产时窒息史，使肺泡上皮细胞的肺液清除功能下降。",
+        "entities": [
+            {
+                "start_idx": 19,
+                "end_idx": 21,
+                "type": "dis",
+                "entity": "RDS"
+            },
+            {
+                "start_idx": 40,
+                "end_idx": 45,
+                "type": "bod",
+                "entity": "肺泡上皮细胞"
+            },
+            {
+                "start_idx": 47,
+                "end_idx": 48,
+                "type": "bod",
+                "entity": "肺液"
+            }
+        ]
+    },
+    {
+        "text": "（三）动-静脉瘘文献报道肾穿刺引起动-静脉瘘发生率仅为15%～18%，其中多数患者无临床症状。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 7,
+                "type": "sym",
+                "entity": "动-静脉瘘"
+            },
+            {
+                "start_idx": 12,
+                "end_idx": 14,
+                "type": "pro",
+                "entity": "肾穿刺"
+            },
+            {
+                "start_idx": 17,
+                "end_idx": 21,
+                "type": "sym",
+                "entity": "动-静脉瘘"
+            }
+        ]
+    },
+    {
+        "text": "这种心律失常最常发生在1岁以下的婴儿，通常无心脏病变，但有些病例可能与病毒性心肌炎有关。",
+        "entities": [
+            {
+                "start_idx": 2,
+                "end_idx": 5,
+                "type": "dis",
+                "entity": "心律失常"
+            },
+            {
+                "start_idx": 22,
+                "end_idx": 23,
+                "type": "bod",
+                "entity": "心脏"
+            },
+            {
+                "start_idx": 35,
+                "end_idx": 40,
+                "type": "dis",
+                "entity": "病毒性心肌炎"
+            }
+        ]
+    },
+    {
+        "text": "哮喘患儿可能由于气道上皮破坏，神经末梢暴露或其他原因，使胆碱能神经的张力及反射加强，是引起气道高反应的重要因素之一；临床常用的抗胆碱能药物主要为阿托品和溴化异丙托品。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 1,
+                "type": "dis",
+                "entity": "哮喘"
+            },
+            {
+                "start_idx": 8,
+                "end_idx": 11,
+                "type": "bod",
+                "entity": "气道上皮"
+            },
+            {
+                "start_idx": 15,
+                "end_idx": 18,
+                "type": "bod",
+                "entity": "神经末梢"
+            },
+            {
+                "start_idx": 28,
+                "end_idx": 32,
+                "type": "bod",
+                "entity": "胆碱能神经"
+            },
+            {
+                "start_idx": 45,
+                "end_idx": 46,
+                "type": "bod",
+                "entity": "气道"
+            },
+            {
+                "start_idx": 63,
+                "end_idx": 68,
+                "type": "dru",
+                "entity": "抗胆碱能药物"
+            },
+            {
+                "start_idx": 72,
+                "end_idx": 74,
+                "type": "dru",
+                "entity": "阿托品"
+            },
+            {
+                "start_idx": 76,
+                "end_idx": 81,
+                "type": "dru",
+                "entity": "溴化异丙托品"
+            }
+        ]
+    },
+    {
+        "text": "【诊断】对高血压患儿需进一步检查血清内生肌酐清除率，钾、钠、氯化物及血气分析，血、尿醛固酮、尿儿茶酚胺及其代谢产物和香草苦杏仁酸（VMA）测定，以初步除外肾实质性高血压以及内分泌系、神经系、心血管系等疾病所致者，如：主动脉缩窄、原发性醛固酮增多症和嗜铬细胞瘤等。",
+        "entities": [
+            {
+                "start_idx": 5,
+                "end_idx": 7,
+                "type": "dis",
+                "entity": "高血压"
+            },
+            {
+                "start_idx": 16,
+                "end_idx": 24,
+                "type": "ite",
+                "entity": "血清内生肌酐清除率"
+            },
+            {
+                "start_idx": 26,
+                "end_idx": 26,
+                "type": "ite",
+                "entity": "钾"
+            },
+            {
+                "start_idx": 28,
+                "end_idx": 28,
+                "type": "ite",
+                "entity": "钠"
+            },
+            {
+                "start_idx": 30,
+                "end_idx": 32,
+                "type": "ite",
+                "entity": "氯化物"
+            },
+            {
+                "start_idx": 34,
+                "end_idx": 37,
+                "type": "ite",
+                "entity": "血气分析"
+            },
+            {
+                "start_idx": 39,
+                "end_idx": 39,
+                "type": "ite",
+                "entity": "血"
+            },
+            {
+                "start_idx": 41,
+                "end_idx": 44,
+                "type": "ite",
+                "entity": "尿醛固酮"
+            },
+            {
+                "start_idx": 46,
+                "end_idx": 50,
+                "type": "ite",
+                "entity": "尿儿茶酚胺"
+            },
+            {
+                "start_idx": 58,
+                "end_idx": 63,
+                "type": "ite",
+                "entity": "香草苦杏仁酸"
+            },
+            {
+                "start_idx": 65,
+                "end_idx": 67,
+                "type": "ite",
+                "entity": "VMA"
+            },
+            {
+                "start_idx": 77,
+                "end_idx": 83,
+                "type": "dis",
+                "entity": "肾实质性高血压"
+            },
+            {
+                "start_idx": 86,
+                "end_idx": 101,
+                "type": "dis",
+                "entity": "内分泌系、神经系、心血管系等疾病"
+            },
+            {
+                "start_idx": 108,
+                "end_idx": 112,
+                "type": "dru",
+                "entity": "主动脉缩窄"
+            },
+            {
+                "start_idx": 114,
+                "end_idx": 122,
+                "type": "dis",
+                "entity": "原发性醛固酮增多症"
+            },
+            {
+                "start_idx": 124,
+                "end_idx": 128,
+                "type": "dis",
+                "entity": "嗜铬细胞瘤"
+            }
+        ]
+    },
+    {
+        "text": "已确诊为T细胞缺陷患儿不宜输新鲜血制品，以防发生移植物抗宿主反应（GVHR），必需输血或新鲜血制品时，应先用射线（2000～3000rad）处理，血制品还要严格筛查CMV，以防血源性CMV感染。",
+        "entities": [
+            {
+                "start_idx": 4,
+                "end_idx": 8,
+                "type": "dis",
+                "entity": "T细胞缺陷"
+            },
+            {
+                "start_idx": 13,
+                "end_idx": 18,
+                "type": "pro",
+                "entity": "输新鲜血制品"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 31,
+                "type": "dis",
+                "entity": "移植物抗宿主反应"
+            },
+            {
+                "start_idx": 33,
+                "end_idx": 36,
+                "type": "dis",
+                "entity": "GVHR"
+            },
+            {
+                "start_idx": 41,
+                "end_idx": 42,
+                "type": "pro",
+                "entity": "输血"
+            },
+            {
+                "start_idx": 44,
+                "end_idx": 48,
+                "type": "dru",
+                "entity": "新鲜血制品"
+            },
+            {
+                "start_idx": 54,
+                "end_idx": 55,
+                "type": "pro",
+                "entity": "射线"
+            },
+            {
+                "start_idx": 73,
+                "end_idx": 75,
+                "type": "dru",
+                "entity": "血制品"
+            },
+            {
+                "start_idx": 80,
+                "end_idx": 84,
+                "type": "pro",
+                "entity": "筛查CMV"
+            },
+            {
+                "start_idx": 88,
+                "end_idx": 95,
+                "type": "dis",
+                "entity": "血源性CMV感染"
+            }
+        ]
+    },
+    {
+        "text": "在第二肿瘤中，AML是一种较常见的类型，主要与先前烷化剂如环磷酰胺、氮芥、马利兰等暴露有关，常发生于第一肿瘤4～5年后，可先表现为骨髓增生异常综合征（MDS）再发展为AML，但在10～12年后AML的发病机会减少。",
+        "entities": [
+            {
+                "start_idx": 1,
+                "end_idx": 4,
+                "type": "dis",
+                "entity": "第二肿瘤"
+            },
+            {
+                "start_idx": 7,
+                "end_idx": 9,
+                "type": "dis",
+                "entity": "AML"
+            },
+            {
+                "start_idx": 50,
+                "end_idx": 53,
+                "type": "dis",
+                "entity": "第一肿瘤"
+            },
+            {
+                "start_idx": 65,
+                "end_idx": 73,
+                "type": "dis",
+                "entity": "骨髓增生异常综合征"
+            },
+            {
+                "start_idx": 75,
+                "end_idx": 77,
+                "type": "dis",
+                "entity": "MDS"
+            },
+            {
+                "start_idx": 83,
+                "end_idx": 85,
+                "type": "dis",
+                "entity": "AML"
+            },
+            {
+                "start_idx": 96,
+                "end_idx": 98,
+                "type": "dis",
+                "entity": "AML"
+            }
+        ]
+    }
+]
